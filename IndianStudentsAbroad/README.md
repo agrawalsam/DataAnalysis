@@ -1,4 +1,5 @@
-Data acquired from  - http://164.100.24.220/loksabhaquestions/annex/12/AS337.pdf .
+Data acquired from  - http://164.100.24.220/loksabhaquestions/annex/12/AS337.pdf and https://www.mea.gov.in/Images/attach/ru964.pdf
+
 This dataset is more updated than https://mea.gov.in/Images/attach/lu4378_one.pdf
 
 Other References: 
